@@ -470,6 +470,11 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@hypercerts-org/contracts@^0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@hypercerts-org/contracts/-/contracts-0.0.13.tgz#4189dbe027335f6ad0bd5452d9bbda4f4e1acec5"
+  integrity sha512-hTyZGdfz9VsG7Ryy+IT2X5QlLDZEdMArjt2sCXjYq8/M1SHMK97THMfE/1Bsyq/fWZoeNATbxcOwMHdwuBOifw==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.1.tgz#c08679063f279615a3326583ba3a90d1d82cc721"
